@@ -4,10 +4,5 @@ Benchmark of four classical ML models on an imbalanced auto‑insurance‑claim
 data set.  Best model (XGBoost + SMOTE) achieves **F1 = 0.65** and **AUC = 0.86**.
 
  
-#Reproduce locally
 
-bash
-git clone [https://github.com/your‑username/insurance-fraud-detection.git](https://github.com/1172351840issac/483finalproject/tree/main)
-cd insurance-fraud-detection
-pip install -r requirements.txt
-python fraud_experiment.py --data path/to/insurance_claims.csv
+**You could directly see what I got from the cpsc483project_issac.ipynb**
