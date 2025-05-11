@@ -7,7 +7,7 @@ data set.  Best model (XGBoost + SMOTE) achieves **F1 = 0.65** and **AUC =�
 #Reproduce locally
 
 bash
-git clone https://github.com/your‑username/insurance-fraud-detection.git
+git clone [https://github.com/your‑username/insurance-fraud-detection.git](https://github.com/1172351840issac/483finalproject/tree/main)
 cd insurance-fraud-detection
 pip install -r requirements.txt
 python fraud_experiment.py --data path/to/insurance_claims.csv
